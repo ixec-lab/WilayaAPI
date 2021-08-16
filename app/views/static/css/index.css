@@ -1,0 +1,11 @@
+html { 
+    background: url('/app/views/static/algeria-bg.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.vr{
+    text-align: right;
+}
