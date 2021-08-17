@@ -1,12 +1,12 @@
 <?php
-namespace WILAYAPI\LIBS\DATABASES;
+namespace WILAYAPI\LIBS\DATABASE;
 
-class Mysql{
+class Database{
     private const USERNAME = "ixec";
-    private const PASSWORD = "";
+    private const PASSWORD = "islem123";
     private const HOST = "127.0.0.1";
     private const DRIVER = "mysql";
-    private const DBNAME = "";
+    private const DBNAME = "WilayaAPI";
     
     public static function init(){
         try{

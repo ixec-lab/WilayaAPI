@@ -5,5 +5,5 @@
         public function defaultAction(){
             $this->_view();
         }
-    }
+}
 ?>
